@@ -26,9 +26,8 @@ this space is a work in progress.
 ---
 
 ### stats  
-
 #### commits graph  
-![maithili's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maithilimukherjee&theme=github-dark&hide_border=true&area=true)  
+![maithili's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maithilimukherjee&theme=github-dark&hide_border=true&area=true)
 
 #### languages used (top)  
 ![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=maithilimukherjee&layout=compact&theme=dark&hide_border=true)  
