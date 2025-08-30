@@ -29,5 +29,5 @@ this space is a work in progress.
 ![maithili's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maithilimukherjee&theme=github-dark&hide_border=true&area=true)  
 
 ---
-email : m4ithilimukherjee@gmail.com
-
+email: m4ithilimukherjee@gmail.com
+---
