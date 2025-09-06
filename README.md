@@ -14,6 +14,7 @@ this space is a work in progress.
   <img src="https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=f7df1e" /> &nbsp;
   <img src="https://img.shields.io/badge/html5-e34f26?style=flat&logo=html5&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/css3-1572b6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-20232a?style=flat&logo=react&logoColor=61dafb" /> &nbsp;
 </p>
 <p>
   <img src="https://img.shields.io/badge/django-092e20?style=flat&logo=django&logoColor=white" /> &nbsp;
