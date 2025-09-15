@@ -72,15 +72,11 @@ this space is a work in progress.
 
 ---
 ### <sub> programming philosophy </sub>
-
 > “write code that humans actually understand, not just computers.” – martin fowler  
-> “talk is cheap. show me the code.” – linus torvalds  
 > “simplicity over complexity, always.” – austin freeman  
 > “first solve the problem, then write the code.” – john johnson  
 > “if it works but you don’t get it, it’s not done.” – cory house  
 > “the best way to predict the future is to invent it.” – sam altman  
-> “good code is like a good joke — if you have to explain it, it’s bad.” – anonymous  
-> “ship it, learn fast, improve faster.” – modern dev mantra  
 > “dont just code, create.” – anonymous  
 > “refactor like you’re detoxing your brain.” – dev wisdom
 --- 
