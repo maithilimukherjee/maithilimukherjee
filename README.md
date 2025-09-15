@@ -70,10 +70,19 @@ this space is a work in progress.
 ### stats    
 ![maithili's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maithilimukherjee&theme=github-dark&hide_border=true&area=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maithilimukherjee&layout=compact&theme=github-dark)
-
-
 ---
-### contact me at: 
-email: m4ithilimukherjee@gmail.com
+### quotes
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson  
+
+> “Talk is cheap. Show me the code.” – Linus Torvalds  
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler  
+
+> “Simplicity is the soul of efficiency.” – Austin Freeman  
+
+> “First, solve the problem. Then, write the code.” – John Johnson  
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+
 ---
