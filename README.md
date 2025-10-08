@@ -1,4 +1,4 @@
-`maithili`  
+`maithili.exe`  
 
 pre-final year computer science student. full stack dev. android dev in the making.
 this space is a work in progress.  
