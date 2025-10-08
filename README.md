@@ -5,7 +5,7 @@ this space is a work in progress.
 
 ---
 
-### Tech Stack
+### tech stack
 
 <p>
   <!-- Frontend -->
