@@ -7,7 +7,7 @@ this space is a work in progress.
 
 ### tech stack
 
-**frontend**  
+**frontend** 
 ![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61dafb)
 ![react router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=f7df1e)
@@ -26,8 +26,6 @@ this space is a work in progress.
 **backend**  
 ![django](https://img.shields.io/badge/django-092e20?style=flat&logo=django&logoColor=white)
 ![drf](https://img.shields.io/badge/django_rest_framework-092E20?style=flat&logo=django&logoColor=white)
-![python](https://img.shields.io/badge/python-14354c?style=flat&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
 ![spring boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-005c84?style=flat&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
@@ -50,6 +48,8 @@ this space is a work in progress.
 
 **systems / languages**  
 ![c](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white)
+![python](https://img.shields.io/badge/python-14354c?style=flat&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
