@@ -67,15 +67,6 @@ this space is a work in progress.
 > “dont just code, create.” – anonymous  
 > “refactor like you’re detoxing your brain.” – dev wisdom
 
----
 
 ---
 
-### <sub> programming philosophy </sub>
-> “write code that humans actually understand, not just computers.” – martin fowler  
-> “simplicity over complexity, always.” – austin freeman  
-> “first solve the problem, then write the code.” – john johnson  
-> “if it works but you don’t get it, it’s not done.” – cory house  
-> “the best way to predict the future is to invent it.” – sam altman  
-> “dont just code, create.” – anonymous  
-> “refactor like you’re detoxing your brain.” – dev wisdom
