@@ -1,6 +1,6 @@
 `maithili.exe`  
 
-pre-final year computer science student. full stack dev. android dev in the making.  
+pre-final year computer science student. full stack dev. app dev in the making.  
 this space is a work in progress.  
 
 ---
