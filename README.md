@@ -58,7 +58,7 @@ this space is a work in progress.
 
 ---
 
-### streak & top languages
+### streak & current project
 <table>
 <tr>
 <td>
@@ -68,7 +68,7 @@ this space is a work in progress.
 </td>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maithilimukherjee&layout=compact&theme=dark)
+[![Latest Project](https://img.shields.io/badge/Latest-Project-blue?style=flat&logo=github)](https://github.com/maithilimukherjee/YOUR_PROJECT_REPO)
 
 </td>
 </tr>
