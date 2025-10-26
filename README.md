@@ -53,21 +53,13 @@ this space is a work in progress.
 
 ---
 
-### stats & streak
-<table>
-<tr>
-<td>
-
+### stats  
 ![maithili's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maithilimukherjee&theme=github-dark&hide_border=true&area=true)
 
-</td>
-<td>
+---
 
+### streak  
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=maithilimukherjee&theme=dark&hide_border=true)
-
-</td>
-</tr>
-</table>
 
 ---
 
