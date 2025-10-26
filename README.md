@@ -58,8 +58,21 @@ this space is a work in progress.
 
 ---
 
-### streak  
+### streak & top languages
+<table>
+<tr>
+<td>
+
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=maithilimukherjee&theme=dark&hide_border=true)
+
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maithilimukherjee&layout=compact&theme=dark)
+
+</td>
+</tr>
+</table>
 
 ---
 
