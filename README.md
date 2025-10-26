@@ -53,8 +53,21 @@ this space is a work in progress.
 
 ---
 
-### stats  
+### stats & streak
+<table>
+<tr>
+<td>
+
 ![maithili's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maithilimukherjee&theme=github-dark&hide_border=true&area=true)
+
+</td>
+<td>
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=maithilimukherjee&theme=dark&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -66,7 +79,3 @@ this space is a work in progress.
 > “the best way to predict the future is to invent it.” – sam altman  
 > “dont just code, create.” – anonymous  
 > “refactor like you’re detoxing your brain.” – dev wisdom
-
-
----
-
