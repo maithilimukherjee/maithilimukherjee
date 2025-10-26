@@ -58,21 +58,9 @@ this space is a work in progress.
 
 ---
 
-### streak & currently jammin'
-<table>
-<tr>
-<td>
+### streak
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=maithilimukherjee&theme=dark&hide_border=true)
-
-</td>
-<td>
-
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31xgqma7wjojqnebpyiz4j2ocswa&count=1&theme=dark)](https://open.spotify.com/user/31xgqma7wjojqnebpyiz4j2ocswa)
-
-</td>
-</tr>
-</table>
 
 
 ---
