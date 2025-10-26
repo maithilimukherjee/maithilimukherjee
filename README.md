@@ -68,7 +68,7 @@ this space is a work in progress.
 </td>
 <td>
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31xgqma7wjojqnebpyiz4j2ocswa)
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31xgqma7wjojqnebpyiz4j2ocswa&count=1&theme=dark)](https://open.spotify.com/user/31xgqma7wjojqnebpyiz4j2ocswa)
 
 </td>
 </tr>
