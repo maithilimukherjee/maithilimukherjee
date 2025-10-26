@@ -58,7 +58,7 @@ this space is a work in progress.
 
 ---
 
-### streak & current project
+### streak & currently jammin'
 <table>
 <tr>
 <td>
@@ -68,11 +68,12 @@ this space is a work in progress.
 </td>
 <td>
 
-[![Latest Project](https://img.shields.io/badge/Latest-Project-blue?style=flat&logo=github)](https://github.com/maithilimukherjee/YOUR_PROJECT_REPO)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31xgqma7wjojqnebpyiz4j2ocswa)
 
 </td>
 </tr>
 </table>
+
 
 ---
 
