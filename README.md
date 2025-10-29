@@ -58,13 +58,6 @@ this space is a work in progress.
 
 ---
 
-### streak
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=maithilimukherjee&theme=dark&hide_border=true)
-
-
----
-
 ### <sub> programming philosophy </sub>
 > “write code that humans actually understand, not just computers.” – martin fowler  
 > “simplicity over complexity, always.” – austin freeman  
