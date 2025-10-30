@@ -1,4 +1,4 @@
-`maithili.exe`  
+# `maithili.exe`  
 
 pre-final year cse student. full stack dev. app dev in the making.  
 this space is a work in progress.  
@@ -45,6 +45,8 @@ this space is a work in progress.
 ![docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
+![shell](https://img.shields.io/badge/shell_scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 **systems / languages**  
