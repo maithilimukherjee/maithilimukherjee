@@ -17,6 +17,7 @@ this space is a work in progress.
 ![sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![framer motion](https://img.shields.io/badge/framer_motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![react hook form](https://img.shields.io/badge/react_hook_form-FF7F50?style=flat)
+![swing](https://img.shields.io/badge/swing-007396?style=flat&logo=java&logoColor=white)
 
 **mobile**  
 ![react native](https://img.shields.io/badge/react_native-20232a?style=flat&logo=react&logoColor=61dafb)
@@ -26,7 +27,6 @@ this space is a work in progress.
 **backend**  
 ![django](https://img.shields.io/badge/django-092e20?style=flat&logo=django&logoColor=white)
 ![drf](https://img.shields.io/badge/django_rest_framework-092E20?style=flat&logo=django&logoColor=white)
-![spring boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-005c84?style=flat&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -45,6 +45,7 @@ this space is a work in progress.
 ![docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 **systems / languages**  
 ![c](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white)
