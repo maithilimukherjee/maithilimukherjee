@@ -25,6 +25,7 @@ this space is a work in progress.
 ![react native paper](https://img.shields.io/badge/react_native_paper-6200EE?style=flat&logoColor=white)
 
 **backend**  
+![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![django](https://img.shields.io/badge/django-092e20?style=flat&logo=django&logoColor=white)
 ![drf](https://img.shields.io/badge/django_rest_framework-092E20?style=flat&logo=django&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-005c84?style=flat&logo=mysql&logoColor=white)
