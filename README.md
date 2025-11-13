@@ -31,6 +31,7 @@ this space is a work in progress.
 ![mysql](https://img.shields.io/badge/mysql-005c84?style=flat&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
+![neon](https://img.shields.io/badge/neon-0C1821?style=flat&logo=neon&logoColor=white)
 
 **data / ml**  
 ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
