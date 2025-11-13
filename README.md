@@ -26,6 +26,7 @@ this space is a work in progress.
 
 **backend**  
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
 ![django](https://img.shields.io/badge/django-092e20?style=flat&logo=django&logoColor=white)
 ![drf](https://img.shields.io/badge/django_rest_framework-092E20?style=flat&logo=django&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-005c84?style=flat&logo=mysql&logoColor=white)
