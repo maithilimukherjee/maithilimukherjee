@@ -24,15 +24,17 @@ this space is a work in progress.
 ![expo](https://img.shields.io/badge/expo-000020?style=flat&logo=expo&logoColor=white)
 ![react native paper](https://img.shields.io/badge/react_native_paper-6200EE?style=flat&logoColor=white)
 
-**backend**  
+**backend / api / security**  
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
-![django](https://img.shields.io/badge/django-092e20?style=flat&logo=django&logoColor=white)
-![drf](https://img.shields.io/badge/django_rest_framework-092E20?style=flat&logo=django&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-005c84?style=flat&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
-![sqlite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![neon](https://img.shields.io/badge/neon-0C1821?style=flat&logo=neon&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-8d9eff?style=flat)
+![jwt](https://img.shields.io/badge/json_web_token-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![nodemailer](https://img.shields.io/badge/nodemailer-D14836?style=flat)
+![uuid](https://img.shields.io/badge/uuid-ff69b4?style=flat)
+![2FA](https://img.shields.io/badge/2FA-FFAA00?style=flat)
+![api](https://img.shields.io/badge/API-00CFFF?style=flat)
 
 **data / ml**  
 ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
@@ -51,6 +53,7 @@ this space is a work in progress.
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![shell](https://img.shields.io/badge/shell_scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **systems / languages**  
 ![c](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white)
