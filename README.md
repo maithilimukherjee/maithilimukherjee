@@ -1,6 +1,6 @@
 `maithili.exe`  
 
-pre-final year cse student. full stack developer. aspiring app developer.  
+pre-final year cse student. full stack developer. aspiring app developer & ai enthusiast.
 this space is a work in progress.  
 
 ---
