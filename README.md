@@ -59,6 +59,7 @@ this space is a work in progress.
 ![c](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/python-14354c?style=flat&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
+![ruby](https://img.shields.io/badge/ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 ---
 
