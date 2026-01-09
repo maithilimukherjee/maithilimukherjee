@@ -50,7 +50,7 @@ this space is a work in progress.
 ![seaborn](https://img.shields.io/badge/seaborn-0F4C81?style=flat&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![kaggle](https://img.shields.io/badge/kaggle-5C3EE8?style=flat&logo=opencv&logoColor=white)
+[![kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/maithilimukherjee)
 
 **devops / tools**  
 ![git](https://img.shields.io/badge/git-f05032?style=flat&logo=git&logoColor=white)
