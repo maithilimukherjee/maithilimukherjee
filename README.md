@@ -35,6 +35,13 @@ this space is a work in progress.
 ![uuid](https://img.shields.io/badge/uuid-ff69b4?style=flat)
 ![2FA](https://img.shields.io/badge/2FA-FFAA00?style=flat)
 ![api](https://img.shields.io/badge/API-00CFFF?style=flat)
+![endpoint security](https://img.shields.io/badge/endpoint_security-basics-455A64?style=flat)
+![threat modeling](https://img.shields.io/badge/threat_modeling-FF7043?style=flat)
+![attack analysis](https://img.shields.io/badge/attack_surface_analysis-D32F2F?style=flat)
+![secure design](https://img.shields.io/badge/secure_system_design-6A1B9A?style=flat)
+![process monitoring](https://img.shields.io/badge/process_monitoring-python-2E7D32?style=flat)
+![filesystem monitoring](https://img.shields.io/badge/filesystem_monitoring-python-0277BD?style=flat)
+
 
 **data / ml**  
 ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
