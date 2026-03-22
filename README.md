@@ -24,6 +24,11 @@ this space is a work in progress.
 ![expo](https://img.shields.io/badge/expo-000020?style=flat&logo=expo&logoColor=white)
 ![react native paper](https://img.shields.io/badge/react_native_paper-6200EE?style=flat&logoColor=white)
 
+**ai / llm**
+![llm](https://img.shields.io/badge/LLM-powered-000000?style=flat)
+![prompt engineering](https://img.shields.io/badge/prompt_engineering-FF6F00?style=flat)
+![content generation](https://img.shields.io/badge/ai_content_generation-4CAF50?style=flat)
+
 **backend / api / security**  
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
@@ -35,13 +40,18 @@ this space is a work in progress.
 ![uuid](https://img.shields.io/badge/uuid-ff69b4?style=flat)
 ![2FA](https://img.shields.io/badge/2FA-FFAA00?style=flat)
 ![api](https://img.shields.io/badge/API-00CFFF?style=flat)
+![system design](https://img.shields.io/badge/system_design-basics-3F51B5?style=flat)
+![api design](https://img.shields.io/badge/api_design-2196F3?style=flat)
+![error handling](https://img.shields.io/badge/error_handling-9C27B0?style=flat)
 ![endpoint security](https://img.shields.io/badge/endpoint_security-basics-455A64?style=flat)
 ![threat modeling](https://img.shields.io/badge/threat_modeling-FF7043?style=flat)
 ![attack analysis](https://img.shields.io/badge/attack_surface_analysis-D32F2F?style=flat)
 ![secure design](https://img.shields.io/badge/secure_system_design-6A1B9A?style=flat)
 ![process monitoring](https://img.shields.io/badge/process_monitoring-python-2E7D32?style=flat)
 ![filesystem monitoring](https://img.shields.io/badge/filesystem_monitoring-python-0277BD?style=flat)
-
+![file handling](https://img.shields.io/badge/file_handling-795548?style=flat)
+![web scraping](https://img.shields.io/badge/web_scraping-607D8B?style=flat)
+![data extraction](https://img.shields.io/badge/data_extraction-009688?style=flat)
 
 **data / ml**  
 ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
@@ -62,8 +72,10 @@ this space is a work in progress.
 ![shell](https://img.shields.io/badge/shell_scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![render](https://img.shields.io/badge/render-46E3B7?style=flat&logo=render&logoColor=black)
+![cors handling](https://img.shields.io/badge/CORS-handling-FF5722?style=flat)
 
-**systems / languages**  
+**languages**  
 ![c](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/python-14354c?style=flat&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
