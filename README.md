@@ -25,13 +25,11 @@ this space is a work in progress.
 ![react native paper](https://img.shields.io/badge/react_native_paper-6200EE?style=flat&logoColor=white)
 
 **ai**
-
 ![llm](https://img.shields.io/badge/LLM-powered-000000?style=flat)
 ![prompt engineering](https://img.shields.io/badge/prompt_engineering-FF6F00?style=flat)
 ![content generation](https://img.shields.io/badge/ai_content_generation-4CAF50?style=flat)
 
 **backend / api / security**  
-
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
