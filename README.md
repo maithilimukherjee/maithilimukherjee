@@ -31,6 +31,7 @@ this space is a work in progress.
 ![content generation](https://img.shields.io/badge/ai_content_generation-4CAF50?style=flat)
 
 **backend / api / security**  
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
