@@ -1,6 +1,6 @@
 `maithili.exe`  
 
-pre-final year cse student. full stack developer. ai & cybersecurity enthusiast.
+pre-final year cse student. full stack & java & python developer. ai & cybersecurity enthusiast.
 this space is a work in progress.  
 
 ---
@@ -8,6 +8,8 @@ this space is a work in progress.
 ### tech stack
 
 **frontend**  
+[next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61dafb)
 ![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61dafb)
 ![react router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=f7df1e)
@@ -31,6 +33,7 @@ this space is a work in progress.
 ![content generation](https://img.shields.io/badge/ai_content_generation-4CAF50?style=flat)
 
 **backend / api / security**  
+![spring boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
