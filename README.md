@@ -8,7 +8,7 @@ this space is a work in progress.
 ### tech stack
 
 **frontend**  
-[next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61dafb)
 ![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61dafb)
 ![react router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)
