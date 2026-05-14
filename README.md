@@ -1,6 +1,6 @@
 `maithili.exe`  
 
-pre-final year cse student. full stack & java & python developer. ai & cybersecurity enthusiast.
+pre-final year cse student. full stack & java & python developer. ai-ml enthusiast.
 this space is a work in progress.  
 
 ---
