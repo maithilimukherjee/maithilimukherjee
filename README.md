@@ -1,6 +1,6 @@
 `maithili.exe`  
 
-pre-final year cse student. 
+final year cse student. 
 stcet 2027.
 this space is a work in progress.  
 
