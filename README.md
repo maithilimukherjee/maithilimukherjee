@@ -99,11 +99,6 @@ this space is a work in progress.
 
 ---
 
-### stats  
-![maithili's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maithilimukherjee&theme=github-dark&hide_border=true&area=true)
-
----
-
 ### <sub> programming philosophy </sub>
 > “write code that humans actually understand, not just computers.” – martin fowler  
 > “simplicity over complexity, always.” – austin freeman  
