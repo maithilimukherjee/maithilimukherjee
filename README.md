@@ -1,6 +1,7 @@
 `maithili.exe`  
 
 final year cse student. 
+backend-focused full stack dev.
 stcet 2027.
 this space is a work in progress.  
 
