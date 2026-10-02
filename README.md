@@ -12,12 +12,8 @@ this space is a work in progress.
 **frontend** 
 
 ![react](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61dafb)
-![react router](https://img.shields.io/badge/react_router-CA4245?style=flat&logo=react-router&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=f7df1e)
 ![html5](https://img.shields.io/badge/html5-e34f26?style=flat&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572b6?style=flat&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
-![react hook form](https://img.shields.io/badge/react_hook_form-FF7F50?style=flat)
 
 **ai**
 
